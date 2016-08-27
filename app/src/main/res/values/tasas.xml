@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tasa1menos">25%</string>
+    <string name="tasa1mas">27.5%</string>
+    <string name="tasa2menos">30%</string>
+    <string name="tasa2mas">32.3%</string>
+    <string name="tasa3menos">35%</string>
+    <string name="tasa3mas">38.5%</string>
+</resources>

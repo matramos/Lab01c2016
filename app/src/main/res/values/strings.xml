@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lab01c2016</string>
+    <string name="emailL">Correo Electronico</string>
+    <string name="CUITL">CUIT</string>
+    <string name="montoL">Importe</string>
+    <string name="diasL">Cantidad de Dìas</string>
+    <string name="diasSelecL"></string>
+    <string name="rendimientoL">Rendimiento</string>
+    <string name="textoBoton">HACER PLAZO FIJO</string>
+    <string name="checkBoxL">Renovar Automaticamente al Vencimiento</string>
+    <string name="calculadora_plazo_fijo">Calculadora Plazo Fijo</string>
+    <string name="rendimiento"></string>
+</resources>
